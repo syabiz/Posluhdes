@@ -9,7 +9,7 @@
       "pro": "Jawa Barat",
       "url": "<a href='https://karangtawang.posluhdes.my.id' target='_blank'>https://karangtawang.posluhdes.my.id</a>"
     },
-	{
+    {
       "id": "2",
       "pos": "Mekarmulya",
       "des": "Mekarmulya",
@@ -17,6 +17,25 @@
       "kab": "Kuningan",
       "pro": "Jawa Barat",
       "url": "<a href='https://mekarmulya.posluhdes.my.id' target='_blank'>https://mekarmulya.posluhdes.my.id</a>"
+    },
+    {
+      "id": "3",
+      "pos": "Batuah",
+      "des": "Batuah",
+      "kec": "Loa Janan",
+      "kab": "Kutai Kartanegaran",
+      "pro": "Kalimantan Timur",
+      "url": "<a href='https://batuah.posluhdes.my.id/' target='_blank'>https://batuah.posluhdes.my.id/</a>"
+    },
+    {
+      "id": "4",
+      "pos": "Cengal",
+      "des": "Cengal",
+      "kec": "Japara",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://batuah.posluhdes.my.id/' target='_blank'>https://batuah.posluhdes.my.id/</a>"
     }
+    
   ]
 }
