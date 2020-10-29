@@ -188,25 +188,106 @@
       "kab": "Kuningan",
       "pro": "Jawa Barat",
       "url": "<a href='https://cimega.posluhdes.my.id/' target='_blank'>https://cimega.posluhdes.my.id</a>"
+    },
+	{
+      "id": "22",
+      "pos": "Datar",
+      "des": "Datar",
+      "kec": "Cidahu",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://datar.posluhdes.my.id/' target='_blank'>https://datar.posluhdes.my.id</a>"
+    },
+	{
+      "id": "23",
+      "pos": "Garawangi",
+      "des": "Garawangi",
+      "kec": "Garawangi",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://garawangi.posluhdes.my.id/' target='_blank'>https://garawangi.posluhdes.my.id</a>"
+    },
+	{
+      "id": "24",
+      "pos": "Jalatrang",
+      "des": "Jalatrang",
+      "kec": "Cilebak",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://jalatrang.posluhdes.my.id/' target='_blank'>https://jalatrang.posluhdes.my.id</a>"
+    },
+	{
+      "id": "25",
+      "pos": "Jambugeulis",
+      "des": "Jambugeulis",
+      "kec": "Cigandamekar",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://jambugeulis.posluhdes.my.id/' target='_blank'>https://jambugeulis.posluhdes.my.id</a>"
+    },
+	{
+      "id": "26",
+      "pos": "Kadugede",
+      "des": "Kadugede",
+      "kec": "Kadugede",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://kadugede.posluhdes.my.id/' target='_blank'>https://kadugede.posluhdes.my.id</a>"
+    },
+	{
+      "id": "27",
+      "pos": "Lebakherang",
+      "des": "Lebakherang",
+      "kec": "Ciwaru",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://lebakherang.posluhdes.my.id/' target='_blank'>https://lebakherang.posluhdes.my.id</a>"
+    },
+	{
+      "id": "28",
+      "pos": "Mekarjaya",
+      "des": "Sukamaju",
+      "kec": "Cihaurbeuti",
+      "kab": "Ciamis",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://mekarjaya.posluhdes.my.id/' target='_blank'>https://mekarjaya.posluhdes.my.id</a>"
+    },
+	{
+      "id": "29",
+      "pos": "Sindangbarang",
+      "des": "Sindangbarang",
+      "kec": "Jalaksana",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://sindangbarang.posluhdes.my.id/' target='_blank'>https://sindangbarang.posluhdes.my.id</a>"
+    },
+	{
+      "id": "30",
+      "pos": "Sukamaju",
+      "des": "Sukamaju",
+      "kec": "Cibingbin",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://sukamaju.posluhdes.my.id/' target='_blank'>https://sukamaju.posluhdes.my.id</a>"
+    },
+	{
+      "id": "31",
+      "pos": "Sukasari",
+      "des": "Sukasari",
+      "kec": "Karangkancana",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://sukasari.posluhdes.my.id/' target='_blank'>https://sukasari.posluhdes.my.id</a>"
+    }
+	{
+      "id": "32",
+      "pos": "Sumbakeling",
+      "des": "Sumbakeling",
+      "kec": "Pancalang",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://sumbakeling.posluhdes.my.id/' target='_blank'>https://sumbakeling.posluhdes.my.id</a>"
     }
     
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
