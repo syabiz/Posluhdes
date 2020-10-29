@@ -2,21 +2,21 @@
   "data": [
     {
       "id": "1",
-      "pos": "Karangtawang",
+      "pos": "<a href='https://karangtawang.posluhdes.my.id' target='_blank'><i class='fa fa-external-link'/> Karangtawang</a>",
       "des": "Karangtawang",
       "kec": "Kuningan",
       "kab": "Kuningan",
       "pro": "Jawa Barat",
-      "url": "<a href='https://karangtawang.posluhdes.my.id' target='_blank'>karangtawang.posluhdes.my.id</a>"
+      "url": "<a href='https://karangtawang.posluhdes.my.id' target='_blank'>https://karangtawang.posluhdes.my.id</a>"
     },
 	{
       "id": "2",
-      "pos": "Mekarmulya",
+      "pos": "<a href='https://mekarmulya.posluhdes.my.id' target='_blank'><i class='fa fa-external-link'/> Mekarmulya</a>",
       "des": "Mekarmulya",
       "kec": "Garawangi",
       "kab": "Kuningan",
       "pro": "Jawa Barat",
-      "url": "<a href='https://mekarmulya.posluhdes.my.id' target='_blank'>mekarmulya.posluhdes.my.id</a>"
+      "url": "<a href='https://mekarmulya.posluhdes.my.id' target='_blank'>https://mekarmulya.posluhdes.my.id</a>"
     }
   ]
 }
