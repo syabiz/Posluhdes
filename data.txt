@@ -53,6 +53,51 @@
       "kab": "Majalengka",
       "pro": "Jawa Barat",
       "url": "<a href='https://jatiasih.posluhdes.my.id/' target='_blank'>https://jatiasih.posluhdes.my.id</a>"
+    },
+	{
+      "id": "7",
+      "pos": "Karangmangu",
+      "des": "Karangmangu",
+      "kec": "Kramatmulya",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://karangmangu.posluhdes.my.id/' target='_blank'>https://karangmangu.posluhdes.my.id</a>"
+    },
+	{
+      "id": "8",
+      "pos": "Mandalajaya",
+      "des": "Mandalajaya",
+      "kec": "Maleber",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://mandalajaya.posluhdes.my.id/' target='_blank'>https://mandalajaya.posluhdes.my.id</a>"
+    },
+	{
+      "id": "9",
+      "pos": "Sembawa",
+      "des": "Sembawa",
+      "kec": "Jalaksana",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://sembawa.posluhdes.my.id/' target='_blank'>https://sembawa.posluhdes.my.id</a>"
+    },
+	{
+      "id": "10",
+      "pos": "Mekarmulya",
+      "des": "Babakanmulya",
+      "kec": "Cigugur",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://mekarmulyacgg.posluhdes.my.id/' target='_blank'>https://mekarmulyacgg.posluhdes.my.id</a>"
+    },
+	{
+      "id": "11",
+      "pos": "Santanamulya",
+      "des": "Cisantana",
+      "kec": "Cigugur",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://santanamulya.posluhdes.my.id/' target='_blank'>https://santanamulya.posluhdes.my.id</a>"
     }
     
   ]
