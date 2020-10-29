@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "1",
-      "lin": "<a href='https://karangtawang.posluhdes.my.id' target='_blank'><i class='fa fa-external-link'/>&nbsp;</a> ",
+      "lin": "Karangtawang <a href='https://karangtawang.posluhdes.my.id' target='_blank'><i class='fa fa-external-link'/></a> ",
       "pos": "Karangtawang",
       "des": "Karangtawang",
       "kec": "Kuningan",
@@ -12,7 +12,7 @@
     },
 	{
       "id": "2",
-      "lin": "<a href='https://mekarmulya.posluhdes.my.id' target='_blank'><i class='fa fa-external-link'/>&nbsp;</a> ",
+      "lin": "Mekarmulya <a href='https://mekarmulya.posluhdes.my.id' target='_blank'><i class='fa fa-external-link'/></a> ",
       "pos": "Mekarmulya",
       "des": "Mekarmulya",
       "kec": "Garawangi",
