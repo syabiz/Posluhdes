@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "pos": "Karangtawang",
+      "des": "Karangtawang",
+      "kec": "Kuningan",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://karangtawang.posluhdes.my.id' target='_blank'>karangtawang.posluhdes.my.id</a>"
+    },
+	{
+      "id": "2",
+      "pos": "Mekarmulya",
+      "des": "Mekarmulya",
+      "kec": "Garawangi",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "https://mekarmulya.posluhdes.my.id"
+    }
+  ]
+}
