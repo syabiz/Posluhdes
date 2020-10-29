@@ -16,7 +16,7 @@
       "kec": "Garawangi",
       "kab": "Kuningan",
       "pro": "Jawa Barat",
-      "url": "https://mekarmulya.posluhdes.my.id"
+      "url": "<a href='https://mekarmulya.posluhdes.my.id' target='_blank'>mekarmulya.posluhdes.my.id</a>"
     }
   ]
 }
