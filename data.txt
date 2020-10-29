@@ -7,7 +7,7 @@
       "kec": "Kuningan",
       "kab": "Kuningan",
       "pro": "Jawa Barat",
-      "url": "<a href='https://karangtawang.posluhdes.my.id' target='_blank'>https://karangtawang.posluhdes.my.id</a>"
+      "url": "<a href='https://karangtawang.posluhdes.my.id/' target='_blank'>https://karangtawang.posluhdes.my.id</a>"
     },
     {
       "id": "2",
@@ -16,7 +16,7 @@
       "kec": "Garawangi",
       "kab": "Kuningan",
       "pro": "Jawa Barat",
-      "url": "<a href='https://mekarmulya.posluhdes.my.id' target='_blank'>https://mekarmulya.posluhdes.my.id</a>"
+      "url": "<a href='https://mekarmulya.posluhdes.my.id/' target='_blank'>https://mekarmulya.posluhdes.my.id</a>"
     },
     {
       "id": "3",
@@ -25,7 +25,7 @@
       "kec": "Loa Janan",
       "kab": "Kutai Kartanegaran",
       "pro": "Kalimantan Timur",
-      "url": "<a href='https://batuah.posluhdes.my.id/' target='_blank'>https://batuah.posluhdes.my.id/</a>"
+      "url": "<a href='https://batuah.posluhdes.my.id/' target='_blank'>https://batuah.posluhdes.my.id</a>"
     },
     {
       "id": "4",
@@ -34,7 +34,25 @@
       "kec": "Japara",
       "kab": "Kuningan",
       "pro": "Jawa Barat",
-      "url": "<a href='https://batuah.posluhdes.my.id/' target='_blank'>https://batuah.posluhdes.my.id/</a>"
+      "url": "<a href='https://batuah.posluhdes.my.id/' target='_blank'>https://batuah.posluhdes.my.id</a>"
+    },
+    {
+      "id": "5",
+      "pos": "Jatiasih",
+      "des": "Kedungarum",
+      "kec": "Kuningan",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://jatiasih.posluhdes.my.id/' target='_blank'>https://jatiasih.posluhdes.my.id</a>"
+    },
+    {
+      "id": "6",
+      "pos": "Karahayuan",
+      "des": "Karahayuan",
+      "kec": "Cigasong",
+      "kab": "Majalengka",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://jatiasih.posluhdes.my.id/' target='_blank'>https://jatiasih.posluhdes.my.id</a>"
     }
     
   ]
