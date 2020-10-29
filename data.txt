@@ -52,7 +52,7 @@
       "kec": "Cigasong",
       "kab": "Majalengka",
       "pro": "Jawa Barat",
-      "url": "<a href='https://jatiasih.posluhdes.my.id/' target='_blank'>https://jatiasih.posluhdes.my.id</a>"
+      "url": "<a href='https://karahayuan.posluhdes.my.id/' target='_blank'>https://karahayuan.posluhdes.my.id</a>"
     },
 	{
       "id": "7",
