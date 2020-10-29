@@ -34,7 +34,7 @@
       "kec": "Japara",
       "kab": "Kuningan",
       "pro": "Jawa Barat",
-      "url": "<a href='https://batuah.posluhdes.my.id/' target='_blank'>https://batuah.posluhdes.my.id</a>"
+      "url": "<a href='https://cengal.posluhdes.my.id/' target='_blank'>https://cengal.posluhdes.my.id</a>"
     },
     {
       "id": "5",
@@ -98,6 +98,33 @@
       "kab": "Kuningan",
       "pro": "Jawa Barat",
       "url": "<a href='https://santanamulya.posluhdes.my.id/' target='_blank'>https://santanamulya.posluhdes.my.id</a>"
+    },
+	{
+      "id": "12",
+      "pos": "Sukaraja",
+      "des": "Sukaraja",
+      "kec": "Ciawigebang",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://sukaraja.posluhdes.my.id/' target='_blank'>https://sukaraja.posluhdes.my.id</a>"
+    },
+	{
+      "id": "13",
+      "pos": "Windumukti",
+      "des": "Winduhaji",
+      "kec": "Kuningan",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://windumukti.posluhdes.my.id/' target='_blank'>https://windumukti.posluhdes.my.id</a>"
+    },
+	{
+      "id": "14",
+      "pos": "Mandapajaya",
+      "des": "Mandapajaya",
+      "kec": "Cilebak",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://mandapajaya.posluhdes.my.id/' target='_blank'>https://mandapajaya.posluhdes.my.id</a>"
     }
     
   ]
