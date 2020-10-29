@@ -125,7 +125,88 @@
       "kab": "Kuningan",
       "pro": "Jawa Barat",
       "url": "<a href='https://mandapajaya.posluhdes.my.id/' target='_blank'>https://mandapajaya.posluhdes.my.id</a>"
+    },
+	{
+      "id": "15",
+      "pos": "Bojongsari",
+      "des": "Bojongsari",
+      "kec": "Bojongsari",
+      "kab": "Bandung",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://bojongsari.posluhdes.my.id/' target='_blank'>https://bojongsari.posluhdes.my.id</a>"
+    },
+	{
+      "id": "16",
+      "pos": "Ciomas",
+      "des": "Ciomas",
+      "kec": "Ciawigebang",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://ciomas.posluhdes.my.id/' target='_blank'>https://ciomas.posluhdes.my.id</a>"
+    },
+	{
+      "id": "17",
+      "pos": "Bangunjaya",
+      "des": "Bangunjaya",
+      "kec": "Subang",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://bangunjaya.posluhdes.my.id/' target='_blank'>https://bangunjaya.posluhdes.my.id</a>"
+    },
+	{
+      "id": "18",
+      "pos": "Bunigeulis",
+      "des": "Bunigeulis",
+      "kec": "Hantara",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://bunigeulis.posluhdes.my.id/' target='_blank'>https://bunigeulis.posluhdes.my.id</a>"
+    },
+	{
+      "id": "19",
+      "pos": "Cantilan",
+      "des": "Cantilan",
+      "kec": "Salajambe",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://cantilan.posluhdes.my.id/' target='_blank'>https://cantilan.posluhdes.my.id</a>"
+    },
+	{
+      "id": "20",
+      "pos": "Cigedang",
+      "des": "Cigedang",
+      "kec": "Luragung",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://cigedang.posluhdes.my.id/' target='_blank'>https://cigedang.posluhdes.my.id</a>"
+    },
+	{
+      "id": "21",
+      "pos": "Cimega",
+      "des": "Cimega",
+      "kec": "Darma",
+      "kab": "Kuningan",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://cimega.posluhdes.my.id/' target='_blank'>https://cimega.posluhdes.my.id</a>"
     }
     
   ]
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
