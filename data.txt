@@ -278,15 +278,6 @@
       "kab": "Kuningan",
       "pro": "Jawa Barat",
       "url": "<a href='https://sukasari.posluhdes.my.id/' target='_blank'>https://sukasari.posluhdes.my.id</a>"
-    },
-	{
-      "id": "32",
-      "pos": "Sumbakeling",
-      "des": "Sumbakeling",
-      "kec": "Pancalang",
-      "kab": "Kuningan",
-      "pro": "Jawa Barat",
-      "url": "<a href='https://sumbakeling.posluhdes.my.id/' target='_blank'>https://sumbakeling.posluhdes.my.id</a>"
     }
     
   ]
