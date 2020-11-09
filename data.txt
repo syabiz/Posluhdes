@@ -287,6 +287,24 @@
       "kab": "Kuningan",
       "pro": "Jawa Barat",
       "url": "<a href='https://sumbakeling.posluhdes.my.id/' target='_blank'>https://sumbakeling.posluhdes.my.id</a>"
+    },
+       {
+      "id": "33",
+      "pos": "Haruman Mekar",
+      "des": "Karanganyar",
+      "kec": "Leuwigoong",
+      "kab": "Garut",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://harumanmekar.posluhdes.my.id/' target='_blank'>https://harumanmekar.posluhdes.my.id</a>"
+    },
+       {
+      "id": "34",
+      "pos": "Cibenda Mandiri",
+      "des": "Cibenda",
+      "kec": "Ciemas",
+      "kab": "Sukabumi",
+      "pro": "Jawa Barat",
+      "url": "<a href='https://cibendamandiri.posluhdes.my.id/' target='_blank'>https://cibendamandiri.posluhdes.my.id</a>"
     }
     
   ]
