@@ -11,8 +11,8 @@
 	"sUrl":          "",
 	"oPaginate": {
 		"sFirst":    "Pertama",
-		"sPrevious": "Sebelumnya",
-		"sNext":     "Selanjutnya",
+		"sPrevious": "&#9754;",
+		"sNext":     "&#9755;",
 		"sLast":     "Terakhir"
 	}
 }
